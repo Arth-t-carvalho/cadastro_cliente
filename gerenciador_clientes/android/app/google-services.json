@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646407546453",
+    "project_id": "banco-desafio1",
+    "storage_bucket": "banco-desafio1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646407546453:android:bfcec49642205bce8796dc",
+        "android_client_info": {
+          "package_name": "com.example.gerenciador_clientes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmz-6NTb91nGGrEkaH20-kXXkoU5G6sBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
